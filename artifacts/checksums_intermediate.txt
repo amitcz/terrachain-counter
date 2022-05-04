@@ -1,0 +1,1 @@
+694e1b2e25a37c518cba8dcc9628dc036d7b8027d7af44b1000afa5ebb9c3eae  ./target/wasm32-unknown-unknown/release/my_first_contract.wasm

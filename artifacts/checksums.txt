@@ -1,0 +1,1 @@
+6ca15a83512d8e1ba284ec927ec1531cb7235bd90df61460670770dd3d22e684  my_first_contract.wasm
